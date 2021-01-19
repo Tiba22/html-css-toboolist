@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+.logo-text {
+  font-size: 40px;
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+.logo {
+  vertical-align: middle;
+}
+
+.bg-all {
+  height: 1000px;
+  width: 100%;
+  background-color: lightgrey;
+  padding-top: 50px;
+  padding-bottom: 2%;
+}
+
+.contenitore {
+  width: auto;
+  height: 620px;
+  background-color: white;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 1%;
+}
+
+.bar {
+  height: 40px;
+  width: auto;
+  padding: 6px 0 0 50px;
+}
+
+button {
+  padding: 0;
+  border: none;
+}
+
+#addtask {
+  color: white;
+  width: 90px;
+  height: 30px;
+  text-align: center;
+  display: inline;
+  background-color: #6495ED;
+  border-radius: 6px;
+}
+
+#addsection {
+  border: 1px solid grey;
+  color: grey;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  display: inline;
+  border-radius: 6px;
+}
+
+#newtask {
+  padding-left: 45px;
+  padding-top: 35px;
+}
+
+.titoli {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.testo-lista {
+  display: inline-block;
+  padding: 10px 0px;
+}
+
+.editorial {
+  color: white;
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  display: inline;
+  background-color: #6495ED;
+  border-radius: 13px;
+}
+
+.testo-lista {
+  padding-left: 5px;
+}
+
+#today{
+  padding-top: 35px;
+  padding-left: 45px;
+}
+
+.q1goals {
+  color: white;
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  display: inline;
+  background-color: #8A2BE2;
+  border-radius: 13px;
+}
+
+.recruiting {
+  color: white;
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  display: inline;
+  background-color: #3CB371;
+  border-radius: 13px;
+}
+
+.website {
+  color: white;
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  display: inline;
+  background-color: pink;
+  border-radius: 13px;
+}
+
+.sales {
+  color: white;
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  display: inline;
+  background-color: #999900;
+  border-radius: 13px;
+}
+
+#upcoming {
+  padding-left: 45px;
+  padding-top: 35px;
+}
+
+.verde {
+  color: green;
+}
+
+.rosso {
+  color: red;
+}
